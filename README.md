@@ -22,6 +22,12 @@ The project features a beautiful animated gradient background, floating particle
 
 ---
 
+## 🌐 Live Demo
+
+🔗 **Live Demo:**  https://rafiullah-najat.github.io/Glassmorphism-Digital-Clock/
+
+---
+
 ## 🛠️ Technologies Used
 
 * **HTML5** — Page structure
@@ -149,13 +155,6 @@ index.html
 in your browser.
 
 No additional dependencies or installation are required.
-
----
-
-## 🌐 Live Demo
-
-🔗 **Live Demo:** Add your GitHub Pages or deployment URL here.
-
 ---
 
 ## 📚 What I Learned
